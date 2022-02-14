@@ -19,7 +19,6 @@ body *{
 
 .subtitulos {
   color: white;
-  font-size: 16pt;
 }
 
 
@@ -41,4 +40,8 @@ body *{
 
 .fab {
   color: white;
+}
+
+.barra_cyan {
+  background-color: #fd7e14;
 }
